@@ -1,0 +1,16 @@
+.App{
+  text-align: center;
+}
+.containner{
+  margin: 20px;
+  margin-left: 5%;
+  margin-right: 5%;
+  text-align: justify;
+  align-items: center;
+  color: black;
+  
+}
+.read-hide{
+  font-weight: bolder;
+  cursor: pointer;
+}
